@@ -71,7 +71,6 @@ Szeretek komplex problémákon dolgozni, tanulni új technológiákat, és az is
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CsikSzabi04&theme=radical&layout=compact)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ## 🏆 GitHub Trophies:
