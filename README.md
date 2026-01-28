@@ -67,12 +67,12 @@ Szeretek komplex problémákon dolgozni, tanulni új technológiákat, és az is
 
 ---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=csikszabi04&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=csikszabi04&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=csikszabi04&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CsikSzabi04&theme=radical&layout=compact)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ## 🏆 GitHub Trophies:
 ![](https://github-readme-stats.vercel.app/api?username=CsikSzabi04&theme=radical)
