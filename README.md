@@ -1,4 +1,4 @@
-![My GIF]([https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazIweDEycXAwM2doYWJjemx4dnVhNnc3b2J6OGtnMmhha3JlY21vbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif])
+![My GIF](https://media.giphy.com/media/tkVGeriz5N59rJOxfE/giphy.gif?cid=ecf05e47o6xqbaupswrdgfsofw6003568t0pqpl0p5plgswi&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ## 👨‍💻 About Me
 
