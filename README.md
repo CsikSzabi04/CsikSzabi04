@@ -77,10 +77,6 @@ Szeretek komplex problémákon dolgozni, tanulni új technológiákat, és az is
 
 ## 🏆 GitHub Trophies:
 ![](https://github-readme-stats.vercel.app/api?username=CsikSzabi04&theme=radical) <br>
-![Build Status](https://github.com/CsikSzabi04/<REPO>/actions/workflows/<WORKFLOW_FILE>.yml/badge.svg)<br>
-![Coverage](.github/badges/coverage-total.svg)<br>
-![CI](https://img.shields.io/github/workflow/status/CsikSzabi04/<REPO>/CI?style=flat-square)<br>
-
 
 
 # 💻 Tech Stack:
